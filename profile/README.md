@@ -1,7 +1,5 @@
 # Code of Conduct
 
-# **Code of Conduct**
-
 ## **1. Purpose**
 
 This Code of Conduct outlines our expectations for participants within the REACTNeuro community, as well as the process for submitting contributions. We value the involvement of each individual and encourage everyone to participate in an open and respectful manner.
